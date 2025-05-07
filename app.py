@@ -6,7 +6,7 @@ from datetime import datetime
 from io import BytesIO
  
 # Azure Blob Configs
-CONNECTION_STRING = "" #"DefaultEndpointsProtocol=https;AccountName=demohcp;AccountKey=HJzqp4ZJ4UCtlll1RESBLKlnDOigGrDxCiOUwnlqyH5roPtEhAsK6FlCjaG2A8Ziu2qEdty4tuMg+AStduVJpA==;EndpointSuffix=core.windows.net"
+CONNECTION_STRING = "" 
 CONTAINER_NAME = "excel-files"
  
 # Init blob service

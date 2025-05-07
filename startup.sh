@@ -1,5 +1,5 @@
 #!/bin/bash
 
 streamlit run app.py
---server.port=$PORT 
+--server.port= 8000
 --server.enableCORS=false

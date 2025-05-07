@@ -3,3 +3,4 @@
 streamlit run app.py
 --server.port= 8000
 --server.enableCORS=false
+--server.address = 0.0.0.0
